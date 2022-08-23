@@ -1,1 +1,1 @@
-The readme in my new directory
+I'm updating my README file right now
